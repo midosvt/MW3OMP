@@ -33,7 +33,7 @@ All other libraries with no dependecies are shipped in the `qawno\include` direc
 ## Credits
 All credit goes to edgyaf for converting this. And of course the original gamemode creators.
 
-For people who want to host their a server using this script; Please keep the names that are in /credits, or at least add a separate command called /scriptcredits.
+For people who want to host their server using this script; Please keep the names that are in /credits, or at least add a separate command called /scriptcredits.
 
 ## Help
 If you need help running this gamemode, feel free to find me in the [Ultra-Host discord server](https://discord.gg/gVwzPSn) or OpenMultiplayer discord server (https://discord.gg/samp).
