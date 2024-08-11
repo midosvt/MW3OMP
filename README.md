@@ -6,6 +6,8 @@ This gamemode has been maintained and developed by Battlezone aka Seif_Tounes si
 
 We now decided to convert this gamemode to [Open Multiplayer](https://open.mp/faq) if anyone still wishes to use this gamemode.
 
+![A screenshot from the good old days, server peaked at 245 players](https://i.imgur.com/cLzbzzt.png)
+
 ## Getting started
 Before you can get started, there are dependencies you need on your server folder:
 - [open.mp server](https://github.com/openmultiplayer/open.mp/releases/latest) - Since this gamemode has been converted to open.mp you need to download the open.mp server files.
