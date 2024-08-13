@@ -16,10 +16,7 @@
 #define BUSTAIM_SKIP_WEAPON_IDS             WEAPON_MINIGUN
 
 #include <BustAim>
-
-#undef WEAPON_UNKNOWN
 #include <weapon-config>
-
 #include <crashdetect>
 #include <filemanager>
 
